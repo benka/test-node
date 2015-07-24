@@ -2,4 +2,4 @@ var http = require('http');
 var server = http.createServer(function (req, res) {  
     res.end('Hello World\n');
 });
-server.listen(8080);
+server.listen(80);
