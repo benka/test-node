@@ -24,7 +24,7 @@ grunt.initConfig({
             {
               expand: true,
               cwd: './build',
-              src: ['**'],
+              src: ['*.*'],
               dest: ''
             }
           ]
