@@ -32,6 +32,4 @@ grunt.initConfig({
       }
 });
 
-//grunt.registerTask('default', ['grunt-war']);
-
 };
